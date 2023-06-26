@@ -1,14 +1,11 @@
 #include "sort.h"
-
 /**
- * selection_sort - function to int array using selection sort 
+ * selection_sort - function to int array using selection sort
  * algorithm
- * 
  * @array: pointer to the array to sort
  * @size: size of the array to sort
  * return - void
  */
-
 void selection_sort(int *array, size_t size)
 {
 	int temp;
