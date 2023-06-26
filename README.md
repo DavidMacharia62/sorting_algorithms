@@ -2,13 +2,21 @@
 
 Four different sorting algorithms are:
 
-## Bubble Sort: It compares adjacent elements and swaps them if they are in the wrong order. The process is repeated until the entire list is sorted.
+## Bubble Sort: 
 
-## Insertion Sort: It builds the final sorted array one item at a time. It iterates over the input elements, placing each element in its correct position within the already sorted portion of the array.
+It compares adjacent elements and swaps them if they are in the wrong order. The process is repeated until the entire list is sorted.
 
-## Merge Sort: It is a divide-and-conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the two sorted halves to produce the final sorted array.
+## Insertion Sort: 
 
-## Quick Sort: It also uses the divide-and-conquer approach. It selects a pivot element, partitions the array into two sub-arrays based on the pivot, and recursively sorts the sub-arrays.
+It builds the final sorted array one item at a time. It iterates over the input elements, placing each element in its correct position within the already sorted portion of the array.
+
+## Merge Sort: 
+
+It is a divide-and-conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the two sorted halves to produce the final sorted array.
+
+## Quick Sort: 
+
+It also uses the divide-and-conquer approach. It selects a pivot element, partitions the array into two sub-arrays based on the pivot, and recursively sorts the sub-arrays.
 
 ## Big O notation 
 
